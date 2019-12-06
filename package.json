@@ -1,0 +1,23 @@
+{
+  "name": "shoping_cart",
+  "version": "1.0.0",
+  "description": "following amazon",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritom580/shopingCartNodeApi.git"
+  },
+  "author": "pritom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pritom580/shopingCartNodeApi/issues"
+  },
+  "homepage": "https://github.com/Pritom580/shopingCartNodeApi#readme"
+}
